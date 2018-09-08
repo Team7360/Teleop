@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Vendor_Report>
+<Vendor_name>InnoData</Vendor_name>
+<Report_Date>20180603</Report_Date>
+<Publication_Type>Dissertation</Publication_Type>
+<Report_Date_Range>20180507<Start></Start><End>20180508</End></Report_Date_Range>
+<Processing_Type>Standard</Processing_Type>
+<Manifest>
+<Record>
+<Publication_Number>12345</Publication_Number>
+<Title>A Title</Title>
+<Author>Not Sure</Author>
+<Degree_Date>2018</Degree_Date>
+<Manuscript_Medium>SearchablePDF</Manuscript_Medium>
+<Create_Date>20180508</Create_Date>
+<Status>New</Status>
+</Record>
+<Record>
+<Publication_Number>5349571</Publication_Number>
+<Title>Something or Other</Title>
+<Author>Who Me</Author>
+<Degree_Date>2018</Degree_Date>
+<Manuscript_Medium>SearchablePDF</Manuscript_Medium>
+<Create_Date>20180507</Create_Date>
+<Status>New</Status>
+</Record>
+<Record>
+<Publication_Number>4583493</Publication_Number>
+<Title>Not the Mama</Title>
+<Author>Some Guy</Author>
+<Degree_Date>2018</Degree_Date>
+<Manuscript_Medium>Native PDF</Manuscript_Medium>
+<Create_Date>20180507</Create_Date>
+<Status>New</Status>
+</Record>
+<Record>
+<Publication_Number>0988745</Publication_Number>
+<Title>Perfunctory Clash</Title>
+<Author>Mrs. Dash</Author>
+<Degree_Date>2018</Degree_Date>
+<Manuscript_Medium>SearchablePDF</Manuscript_Medium>
+<Create_Date>20180507</Create_Date>
+<Status>New</Status>
+</Record>
+<Record>
+<Publication_Number>44523234</Publication_Number>
+<Title>Malicious Intent</Title>
+<Author>Just Me</Author>
+<Degree_Date>2018</Degree_Date>
+<Manuscript_Medium>SearchablePDF</Manuscript_Medium>
+<Create_Date>20180507</Create_Date>
+<Status>New</Status>
+</Record>
+<PDF_Transmit_Count>5</PDF_Transmit_Count>
+</Manifest>
+<Vendor_Reject>
+<Record>
+<Publication_Number>112233</Publication_Number>
+<Title>Please do</Title>
+<Author>Book, End</Author>
+<Degree_Date>2018</Degree_Date>
+<Action>Continue</Action>
+<Comment>Disregard garbled text references but process all others</Comment>
+</Record>
+<Record>
+<Publication_Number>3421141</Publication_Number>
+<Title>Makers Mark</Title>
+<Author>Author 1</Author>
+<Degree_Date>2018</Degree_Date>
+<Action>Delete</Action>
+</Record>
+<Record>
+<Publication_Number>44326123</Publication_Number>
+<Title>Totally true story</Title>
+<Author>Author 2</Author>
+<Degree_Date>2018</Degree_Date>
+<Action>Replace_PDF</Action>
+</Record>
+<Vendor_Reject_Count>3</Vendor_Reject_Count>
+</Vendor_Reject>
+<Rework>
+<Record>
+<Publication_Number>111111</Publication_Number>
+<Title>Like, Oh my gosh!</Title>
+<Author>Author Author</Author>
+<Degree_Date>2018</Degree_Date>
+<Comment>Invalid DCIref</Comment>
+</Record>
+<Record>
+<Publication_Number>222222</Publication_Number>
+<Title>No Thanks</Title>
+<Author>Anonymous</Author>
+<Degree_Date>2018</Degree_Date>
+<Comment>Invalid DCIref</Comment>
+</Record>
+<Rework_Count>2</Rework_Count>
+</Rework>
+</Vendor_Report>
